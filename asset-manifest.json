@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56d40522.css",
-    "main.js": "/static/js/main.61f24979.js",
+    "main.css": "/static/css/main.dd6277fd.css",
+    "main.js": "/static/js/main.7ccfde94.js",
     "static/js/787.eb3abb33.chunk.js": "/static/js/787.eb3abb33.chunk.js",
     "static/media/sidlo4.png": "/static/media/sidlo4.e3cdd290f4450807e067.png",
     "static/media/kompas-logo.webp": "/static/media/kompas-logo.ffe1c59955b11f41f2b4.webp",
@@ -24,12 +24,12 @@
     "index.html": "/index.html",
     "static/media/next.svg": "/static/media/next.be225dece3348ceec5f9198e58fda7a3.svg",
     "static/media/prev.svg": "/static/media/prev.688e4bcaf7ddc52815f3fd714f36f575.svg",
-    "main.56d40522.css.map": "/static/css/main.56d40522.css.map",
-    "main.61f24979.js.map": "/static/js/main.61f24979.js.map",
+    "main.dd6277fd.css.map": "/static/css/main.dd6277fd.css.map",
+    "main.7ccfde94.js.map": "/static/js/main.7ccfde94.js.map",
     "787.eb3abb33.chunk.js.map": "/static/js/787.eb3abb33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56d40522.css",
-    "static/js/main.61f24979.js"
+    "static/css/main.dd6277fd.css",
+    "static/js/main.7ccfde94.js"
   ]
 }
