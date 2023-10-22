@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aa2f18a.css",
-    "main.js": "/static/js/main.b7b1144b.js",
+    "main.css": "/static/css/main.4761fc99.css",
+    "main.js": "/static/js/main.49a8c368.js",
     "static/js/787.eb3abb33.chunk.js": "/static/js/787.eb3abb33.chunk.js",
     "static/media/sidlo4.png": "/static/media/sidlo4.e3cdd290f4450807e067.png",
     "static/media/sidlo4-mobil.png": "/static/media/sidlo4-mobil.b877912341fef5526301.png",
@@ -25,12 +25,12 @@
     "index.html": "/index.html",
     "static/media/next.svg": "/static/media/next.be225dece3348ceec5f9198e58fda7a3.svg",
     "static/media/prev.svg": "/static/media/prev.688e4bcaf7ddc52815f3fd714f36f575.svg",
-    "main.9aa2f18a.css.map": "/static/css/main.9aa2f18a.css.map",
-    "main.b7b1144b.js.map": "/static/js/main.b7b1144b.js.map",
+    "main.4761fc99.css.map": "/static/css/main.4761fc99.css.map",
+    "main.49a8c368.js.map": "/static/js/main.49a8c368.js.map",
     "787.eb3abb33.chunk.js.map": "/static/js/787.eb3abb33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aa2f18a.css",
-    "static/js/main.b7b1144b.js"
+    "static/css/main.4761fc99.css",
+    "static/js/main.49a8c368.js"
   ]
 }
