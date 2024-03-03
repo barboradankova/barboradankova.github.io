@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c806d65.css",
-    "main.js": "/static/js/main.67a651f9.js",
+    "main.js": "/static/js/main.7d617cff.js",
     "static/js/787.eb3abb33.chunk.js": "/static/js/787.eb3abb33.chunk.js",
     "static/media/sidlo4.webp": "/static/media/sidlo4.922081e76db87b3116c2.webp",
     "static/media/sidlo4-mobil.webp": "/static/media/sidlo4-mobil.c91ca9040016a91a7e74.webp",
@@ -21,16 +21,16 @@
     "static/media/domain.svg": "/static/media/domain.c5a075e16f6fa891ab8d1728fe9fb9c7.svg",
     "static/media/telephone.svg": "/static/media/telephone.23b1f468a71de1b2a14520ae9fcfe773.svg",
     "static/media/email.svg": "/static/media/email.e6d24769d413599485c35f256bfd4cef.svg",
-    "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.b2f85fd662850defd5863cc36e833cd6.svg",
+    "index.html": "/index.html",
     "static/media/next.svg": "/static/media/next.be225dece3348ceec5f9198e58fda7a3.svg",
     "static/media/prev.svg": "/static/media/prev.688e4bcaf7ddc52815f3fd714f36f575.svg",
     "main.3c806d65.css.map": "/static/css/main.3c806d65.css.map",
-    "main.67a651f9.js.map": "/static/js/main.67a651f9.js.map",
+    "main.7d617cff.js.map": "/static/js/main.7d617cff.js.map",
     "787.eb3abb33.chunk.js.map": "/static/js/787.eb3abb33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c806d65.css",
-    "static/js/main.67a651f9.js"
+    "static/js/main.7d617cff.js"
   ]
 }
